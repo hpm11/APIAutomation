@@ -27,11 +27,11 @@ public class TC_002_POST_REQUEST {
 		
 		JSONObject requestparams = new JSONObject();
 		
-		requestparams.put("FirstName", "1Hitesh");
-		requestparams.put("LastName", "1Moharle");
-		requestparams.put("UserName", "1Hitu1234");
-		requestparams.put("Password", "1123Hitu");
-		requestparams.put("Email", "hhitesh@gmail.com");
+		requestparams.put("FirstName", "2Hitesh");
+		requestparams.put("LastName", "2Moharle");
+		requestparams.put("UserName", "2Hitu1234");
+		requestparams.put("Password", "2123Hitu");
+		requestparams.put("Email", "ehitesh@gmail.com");
 		
 		httprequest.header("Content-Type","application/json");
 		
