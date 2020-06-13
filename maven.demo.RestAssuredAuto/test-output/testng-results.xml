@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2407" started-at="2020-06-13T09:39:57Z" finished-at="2020-06-13T09:39:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2407" started-at="2020-06-13T09:39:57Z" finished-at="2020-06-13T09:39:59Z">
+      <class name="maven.demo.RestAssuredAuto.TC_002_POST_REQUEST">
+        <test-method status="PASS" signature="postRequest()[pri:0, instance:maven.demo.RestAssuredAuto.TC_002_POST_REQUEST@1593948d]" name="postRequest" duration-ms="2373" started-at="2020-06-13T15:09:57Z" finished-at="2020-06-13T15:09:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postRequest -->
+      </class> <!-- maven.demo.RestAssuredAuto.TC_002_POST_REQUEST -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
